@@ -1,4 +1,4 @@
-![Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps!](Thumbnail.jpg)
+![Presentation Title](Thumbnail.jpg)
 
 ## Elevator Pitch
 Dive into serverless architecture! Learn key patterns for robust applications, from fundamentals to real-world examples. Elevate your cloud-native development—join us to unlock the full potential of serverless for optimal scalability, resilience, and performance!
@@ -27,25 +27,29 @@ Join us to explore the future of cloud-native development and learn how to harne
 - Cloud Computing
 - Cloud-Native Development
 - Event-Driven Design
-- Latency Reduction
 - Microservices
 - Orchestration
 - Performance Optimization
 - Reliability
-- Scalability
-- Serverless Architecture
-- Serverless Concepts
 - Resilience
+- Scalability
+- Serverless
+- Serverless Architecture
+- Serverless Computing
+- Serverless Concepts
 
 ## Learning Objectives
-- **Understand Fundamental Serverless Concepts:** Participants will gain a comprehensive understanding of the fundamental concepts underlying serverless architecture, including the shift from traditional infrastructure management to a code-centric approach. Learning objectives include grasping the advantages and challenges associated with serverless computing, distinguishing serverless patterns from conventional models, and appreciating the implications for application design.
--	**Master Proven Architectural Patterns:** Attendees will explore and internalize vital architectural patterns for building scalable and resilient serverless applications. Learning objectives encompass acquiring knowledge on event-driven design, effective microservices implementation, and orchestrating serverless functions. Practical examples and case studies will illustrate the successful application of these patterns, enabling participants to apply them confidently in their projects.
--	**Implement Best Practices for Scalability and Resilience:** The session will provide participants with actionable insights into best practices for designing serverless applications that scale seamlessly and exhibit high resilience. Learning objectives include understanding resource management strategies, incorporating robust security measures, and implementing effective monitoring and debugging techniques within a serverless environment. Attendees will be equipped with the knowledge to optimize performance, minimize latency, and ensure the reliability of their serverless applications.
+- **Understand Fundamental Serverless Concepts**: Participants will gain a comprehensive understanding of the fundamental concepts underlying serverless architecture, including the shift from traditional infrastructure management to a code-centric approach. Learning objectives include grasping the advantages and challenges associated with serverless computing, distinguishing serverless patterns from conventional models, and appreciating the implications for application design.
+- **Master Proven Architectural Patterns**: Attendees will explore and internalize vital architectural patterns for building scalable and resilient serverless applications. Learning objectives encompass acquiring knowledge on event-driven design, effective microservices implementation, and orchestrating serverless functions. Practical examples and case studies will illustrate the successful application of these patterns, enabling participants to apply them confidently in their projects.
+- **Implement Best Practices for Scalability and Resilience**: The session will provide participants with actionable insights into best practices for designing serverless applications that scale seamlessly and exhibit high resilience. Learning objectives include understanding resource management strategies, incorporating robust security measures, and implementing effective monitoring and debugging techniques within a serverless environment. Attendees will be equipped with the knowledge to optimize performance, minimize latency, and ensure the reliability of their serverless applications.
 
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| This presentation has yet to be scheduled. | | | | | |
+| Serverless Architecture Conference | London, UK | April 9, 2024 | 16:00 BST | TBA | Available after event |
 
-Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Presentation%20Title) to have Chad present this session at your event.
+## Resources
+There are no additional resources for this presentation.
+
+Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Crack%20the%20Code%20to%20Scalability) to have Chad present this session at your event.
