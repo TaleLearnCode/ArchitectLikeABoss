@@ -47,7 +47,7 @@ Join us to explore the future of cloud-native development and learn how to harne
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| Serverless Architecture Conference | London, UK | April 9, 2024 | 16:00 BST | TBA | Available after event |
+| [Serverless Architecture Conference](https://serverless-architecture.io/serverless-architecture-design/serverless-application-scalability/) | London, UK | April 9, 2024 | 16:00 BST | TBA | Available after event |
 
 ## Resources
 There are no additional resources for this presentation.
