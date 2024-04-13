@@ -2,7 +2,7 @@
 
 (Previously: Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps!)
 
-![Presentation Title](Thumbnail.jpg)
+![Architect Like a Boss: Mastering Serverless Design Patterns](ArchitectLikeABoss.jpg)
 
 ## Elevator Pitch
 Ready to advance your serverless architecture skills? Join this session, where you will master serverless design patterns and learn to architect like a boss!
@@ -61,4 +61,4 @@ Take advantage of this opportunity to elevate your skills and architect like a b
 ## Resources
 There are no additional resources for this presentation.
 
-Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Crack%20the%20Code%20to%20Scalability) to have Chad present this session at your event.
+Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Architect%20Like%20a%20Boss) to have Chad present this session at your event.
