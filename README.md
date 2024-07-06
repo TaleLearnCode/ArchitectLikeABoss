@@ -2,7 +2,7 @@
 
 (Previously: Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps!)
 
-![Architect Like a Boss: Mastering Serverless Design Patterns](Thumbnail.jpg)
+![Architect Like a Boss: Mastering Serverless Design Patterns](thumbnail.jpg)
 
 ## Elevator Pitch
 Ready to advance your serverless architecture skills? Join this session, where you will master serverless design patterns and learn to architect like a boss!
@@ -48,9 +48,9 @@ Take advantage of this opportunity to elevate your skills and architect like a b
 - Serverless Concepts
 
 ## Learning Objectives
-- **Understand Key Serverless Design Patterns**: Attendees will gain a comprehensive understanding of essential serverless design patterns, including event-driven architectures, microservices, and composite applications. They will learn to apply these patterns to build scalable, resilient, cost-effective serverless solutions.
-- **Learn Best Practices for Serverless Architecture**: Attendees will learn best practices for architecting serverless applications, including techniques for asynchronous workloads, workflow management, and error handling. They will gain actionable insights into overcoming common challenges and optimizing performance in serverless environments.
-- **Develop Confidence in Serverless Architecture**: By the end of the session, participants will feel confident in their ability to architect serverless applications like a boss. They will have the knowledge and tools to tackle complex architectural challenges, make informed design decisions, and drive success in serverless computing.
+- **Master Key Serverless Design Patterns:** Understand and apply essential patterns for scalable, resilient, cost-effective serverless solutions.
+- **Implement Best Practices:** Learn techniques for asynchronous workloads, workflow management, and error handling in serverless architecture.
+- **Gain Confidence in Serverless Design:** Acquire the skills and knowledge to tackle complex challenges and make informed architectural decisions.
 
 ## Presentations
 
@@ -60,7 +60,8 @@ Take advantage of this opportunity to elevate your skills and architect like a b
 | [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | July 17-19, 2024 | TBA | TBA | Available Afterward |
 | [Serverless Architecture Conference London 2024](https://serverless-architecture.io/serverless-architecture-design/serverless-application-scalability/) (as Crack the Code to Scalability) | London, UK | April 9, 2024 | 16:00 BST | TBA | [Slides](./EventMaterials/CrackTheCodeToScalability-SACLondon24.pdf) |
 
+Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Architect%20Like%20a%20Boss) to have Chad present this session at your event.
+
 ## Resources
 There are no additional resources for this presentation.
 
-Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Architect%20Like%20a%20Boss) to have Chad present this session at your event.
