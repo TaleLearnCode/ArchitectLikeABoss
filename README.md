@@ -57,7 +57,7 @@ Take advantage of this opportunity to elevate your skills and architect like a b
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | Berlin, Germany | October 20-23, 2024 | TBA | TBA | Available Afterwards |
-| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | July 17-19, 2024 | TBA | TBA | Available Afterward |
+| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | July 18, 2024 | 4:00 pm CDT | Lancaster 2&3 | Available Afterward |
 | [Serverless Architecture Conference London 2024](https://serverless-architecture.io/serverless-architecture-design/serverless-application-scalability/) (as Crack the Code to Scalability) | London, UK | April 9, 2024 | 16:00 BST | TBA | [Slides](./EventMaterials/CrackTheCodeToScalability-SACLondon24.pdf) |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Architect%20Like%20a%20Boss) to have Chad present this session at your event.
