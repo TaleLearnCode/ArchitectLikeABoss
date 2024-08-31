@@ -52,6 +52,17 @@ Take advantage of this opportunity to elevate your skills and architect like a b
 - **Implement Best Practices:** Learn techniques for asynchronous workloads, workflow management, and error handling in serverless architecture.
 - **Gain Confidence in Serverless Design:** Acquire the skills and knowledge to tackle complex challenges and make informed architectural decisions.
 
+## Prerequisites
+To get the most out of this presentation, it’s recommended that attendees have the following:
+
+- **Basic Understanding of Cloud Computing**: Familiarity with cloud concepts and services, such as AWS, Azure, or Google Cloud Platform.
+- **Experience with Serverless Technologie**s: Prior exposure to serverless frameworks and services like AWS Lambda, Azure Functions, or Google Cloud Functions.
+- **Knowledge of Event-Driven Architectures**: Understanding of how event-driven systems work and their benefits.
+- **Familiarity with Microservices**: Basic knowledge of microservices architecture and its principles.
+- **Eagerness to Learn**: A willingness to engage with new concepts and apply them to real-world scenarios.
+
+These prerequisites will help ensure that you can fully engage with the material and gain the most from the session. Looking forward to seeing you there and helping you master serverless design patterns!
+
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
