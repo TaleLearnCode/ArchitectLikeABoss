@@ -56,9 +56,11 @@ Take advantage of this opportunity to elevate your skills and architect like a b
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | Berlin, Germany | October 22, 2024 | 11:30 AM CEST | TBA | [Slides](./EventMaterials/ArchitectLikeABoss-SLABerlin2024.pdf) |
-| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | July 18, 2024 | 4:00 pm CDT | Lancaster 2&3 | [Slides](./EventMaterials/ArchitectLikeABoss-Nebraska2024.pdf) |
-| [Serverless Architecture Conference London 2024](https://serverless-architecture.io/serverless-architecture-design/serverless-application-scalability/) (as Crack the Code to Scalability) | London, UK | April 9, 2024 | 16:00 BST | TBA | [Slides](./EventMaterials/CrackTheCodeToScalability-SACLondon24.pdf) |
+| [Software Design & Development (SDD)](https://sddconf.com/agenda/k8eCf8vFm6PkwTHNn) (as Crack the Code of Serverless Design) | London, UK | 2026-05-12 | 14:00 BST | Track 6 | Available Afterwards |
+| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/sessions/thursday/h09-serverless-design.aspx) (as Crack the Code of Serverless Design) | Las Vegas, NV | 2026-03-19 | 11:00 PDT | H09 | Available Afterwards |
+| [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | Berlin, Germany | 2025-10-22 | 11:30 CEST | TBA | [Slides](./EventMaterials/ArchitectLikeABoss-SLABerlin2024.pdf) |
+| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | 2024-07-18 | 16:00 CDT | Lancaster 2&3 | [Slides](./EventMaterials/ArchitectLikeABoss-Nebraska2024.pdf) |
+| [Serverless Architecture Conference London 2024](https://serverless-architecture.io/serverless-architecture-design/serverless-application-scalability/) (as Crack the Code to Scalability) | London, UK | 2024-04-09 | 16:00 BST | TBA | [Slides](./EventMaterials/CrackTheCodeToScalability-SACLondon24.pdf) |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Architect%20Like%20a%20Boss) to have Chad present this session at your event.
 
