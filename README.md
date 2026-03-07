@@ -15,7 +15,7 @@ Are you ready to advance your serverless architecture skills? Join this dynamic 
 
 In this power-packed session, we will dive deep into serverless architecture, unveiling the secrets behind building scalable, resilient, cost-effective applications. From event-driven architectures to microservices and beyond, we will explore the essential design patterns that empower you to craft serverless solutions like a seasoned pro.
 
-Forget the guesswork and uncertainty – with expert guidance, you will gain invaluable insights and actionable strategies for tackling common challenges such as asynchronous workloads, workflow management, and error handling in the serverless realm. Whether you are a seasoned cloud architect or a curious newcomer, this session promises to equip you with the knowledge and tools to architect serverless applications with confidence and finesse.
+Forget the guesswork and uncertainty ï¿½ with expert guidance, you will gain invaluable insights and actionable strategies for tackling common challenges such as asynchronous workloads, workflow management, and error handling in the serverless realm. Whether you are a seasoned cloud architect or a curious newcomer, this session promises to equip you with the knowledge and tools to architect serverless applications with confidence and finesse.
 
 Take advantage of this opportunity to elevate your skills and architect like a boss in serverless computing. Join us and unlock the keys to mastering serverless design patterns for unparalleled success!
 
@@ -57,7 +57,7 @@ Take advantage of this opportunity to elevate your skills and architect like a b
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | [Software Design & Development (SDD)](https://sddconf.com/agenda/k8eCf8vFm6PkwTHNn) (as Crack the Code of Serverless Design) | London, UK | 2026-05-12 | 14:00 BST | Track 6 | Available Afterwards |
-| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/sessions/thursday/h09-serverless-design.aspx) (as Crack the Code of Serverless Design) | Las Vegas, NV | 2026-03-19 | 11:00 PDT | H09 | Available Afterwards |
+| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/sessions/thursday/h09-serverless-design.aspx) (as Crack the Code of Serverless Design) | Las Vegas, NV | 2026-03-19 | 11:00 PDT | H09 | [Slides](EventMaterials/CrackTheCodeToScalability-VSLiveVegas2026.pdf) |
 | [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | Berlin, Germany | 2025-10-22 | 11:30 CEST | TBA | [Slides](./EventMaterials/ArchitectLikeABoss-SLABerlin2024.pdf) |
 | [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | 2024-07-18 | 16:00 CDT | Lancaster 2&3 | [Slides](./EventMaterials/ArchitectLikeABoss-Nebraska2024.pdf) |
 | [Serverless Architecture Conference London 2024](https://serverless-architecture.io/serverless-architecture-design/serverless-application-scalability/) (as Crack the Code to Scalability) | London, UK | 2024-04-09 | 16:00 BST | TBA | [Slides](./EventMaterials/CrackTheCodeToScalability-SACLondon24.pdf) |
