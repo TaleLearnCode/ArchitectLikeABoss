@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=devstorageaccount;AccountKey=devkey==;EndpointSuffix=core.windows.net",
+    "ServiceBusConnection": "Endpoint=sb://heist-demo.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=placeholder=="
+  }
+}
