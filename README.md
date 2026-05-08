@@ -56,7 +56,7 @@ Take advantage of this opportunity to elevate your skills and architect like a b
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Software Design & Development (SDD)](https://sddconf.com/agenda/k8eCf8vFm6PkwTHNn) (as Crack the Code of Serverless Design) | London, UK | 2026-05-12 | 14:00 BST | Track 6 | Available Afterwards |
+| [Software Design & Development (SDD)](https://sddconf.com/agenda/k8eCf8vFm6PkwTHNn) (as Crack the Code of Serverless Design) | London, UK | 2026-05-12 | 14:00 BST | Track 6 | [Slides](EventMaterials/CrackTheCodeToScalability-SDD2026.pdf) |
 | [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/sessions/thursday/h09-serverless-design.aspx) (as Crack the Code of Serverless Design) | Las Vegas, NV | 2026-03-19 | 11:00 PDT | H09 | [Slides](EventMaterials/CrackTheCodeToScalability-VSLiveVegas2026.pdf) |
 | [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | Berlin, Germany | 2025-10-22 | 11:30 CEST | TBA | [Slides](./EventMaterials/ArchitectLikeABoss-SLABerlin2024.pdf) |
 | [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | 2024-07-18 | 16:00 CDT | Lancaster 2&3 | [Slides](./EventMaterials/ArchitectLikeABoss-Nebraska2024.pdf) |
